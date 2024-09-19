@@ -20,6 +20,7 @@ public class Main {
         exams.add(new Exam("Electronics", 95));
 
         System.out.println( exams.size());
+        System.out.println("Hello");
 
         for(Exam e:exams){
             System.out.println(e);
